@@ -65,7 +65,3 @@ The dataset used in this project is "Mall_Customers.csv." It contains informatio
 ### Dataset Source
 
 - The dataset is available in the "Mall_Customers.csv" file.
-
-### Contact Information
-
-- For questions or inquiries, please contact [Your Name] at [Your Email Address].
